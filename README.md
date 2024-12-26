@@ -18,7 +18,9 @@
 
 - SonarQube
 
-- Jenkins 
+- Jenkins
+
+- Kubernetes
 
 
 
