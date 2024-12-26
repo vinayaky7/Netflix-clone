@@ -12,6 +12,14 @@
 
 - Kubernetes: An open-source system for automating deployment, scaling, and management of containerized applications, indicating that the application is orchestrated using Kubernetes.
 
+- ArgoCD
+
+- Prometheus and Grafana
+
+- SonarQube
+
+- Jenkins 
+
 
 
 
