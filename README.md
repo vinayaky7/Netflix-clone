@@ -1,3 +1,21 @@
+# Netflix clone application primarily developed using the following technologies:
+
+- React.js: A JavaScript library for building user interfaces, indicating that the application is built with React components.
+
+- TypeScript: A statically typed superset of JavaScript, suggesting that the codebase utilizes TypeScript for type safety and development efficiency.
+
+- Material-UI (MUI): A popular React UI framework, implying that the application uses MUI components for its user interface design.
+
+- Vite: A build tool that provides a faster and leaner development experience for modern web projects, indicating that Vite is used for bundling and development purposes.
+
+- Docker: A platform for developing, shipping, and running applications in containers, suggesting that the application is containerized using Docker for consistent deployment.
+
+- Kubernetes: An open-source system for automating deployment, scaling, and management of containerized applications, indicating that the application is orchestrated using Kubernetes.
+
+
+
+
+
 <div align="center">
   <img src="./public/assets/DevSecOps.png" alt="Logo" width="100%" height="100%">
 
